@@ -1,2 +1,3 @@
-# VSGA-2019-POLIJE
- Pembelajaran di VSGA POLIJE TAHUN 2019
+# VSGA
+
+Pelatihan Yang Didapat dari DTS VSGA Junior Web Developer
